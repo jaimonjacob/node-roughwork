@@ -1,0 +1,2 @@
+Adding text to a new line 
+ Is this visible
